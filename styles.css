@@ -28,4 +28,11 @@ svg {
   #legend text {
     font-size: 10px;
   }
+
+  #tooltip {
+    max-width: 250px;
+    word-wrap: break-word;
+    font-size: 10px;
+    padding: 5px;
+  }
 }
