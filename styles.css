@@ -30,8 +30,7 @@ svg {
   }
 
   #tooltip {
-    max-width: 250px;
-    word-wrap: break-word;
+    width: 220px;
     font-size: 10px;
     padding: 5px;
   }
