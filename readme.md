@@ -4,4 +4,4 @@ Project #2 of the Data Visualization using D3 library certification on freeCodeC
 
 ## Live Preview
 
-Check out the live preview: [Scatter plot](https://zxc-w.github.io/Bar-Chart/).
+Check out the live preview: [Scatter plot](https://zxc-w.github.io/Scatter-Plot/).
